@@ -23,8 +23,8 @@
 <h3 align="center"> Info </h3>
 <p align="center">
   <a href="mailto:ies041196@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ies041196@gmail.com"/></a>
-  <a href="https://roboticsoo.shop"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-<a href="https://https://jaehoon-daddy.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a> 
+  <a href="https://roboticsoo.notion.site/roboticsoo/Soo-s-Home-Study-e35a2e34967948df90d580f6f6a0e0c1"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+<a href="https://jaehoon-daddy.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a> 
   
 </p>
 <br>
