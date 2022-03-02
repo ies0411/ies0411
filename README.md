@@ -1,5 +1,8 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/robotics-FFCA28?style=flat-square&logo=robotics&logoColor=blue"/>
+<img src="https://img.shields.io/badge/slam-FFAA28?style=flat-square&logo=robotics&logoColor=blue"/>
+<img src="https://img.shields.io/badge/autonomous-FAAA28?style=flat-square&logo=robotics&logoColor=blue"/>
+<img src="https://img.shields.io/badge/cv-AAAA20?style=flat-square&logo=robotics&logoColor=blue"/>
 
 <!--
 **ies0411/ies0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
