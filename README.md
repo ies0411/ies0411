@@ -26,6 +26,7 @@
   <a href="https://roboticsoo.notion.site/roboticsoo/Soo-s-Home-Study-e35a2e34967948df90d580f6f6a0e0c1"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 <a href="https://jaehoon-daddy.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a> 
   
+  
 </p>
 <br>
 
