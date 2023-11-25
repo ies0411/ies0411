@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=EunsooIm&fontSize=70&animation=twinkling)
   ---
-<h3 align="center">🛠 Tech Stack 🛠</h3><p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  
+<!-- <h3 align="center">🛠 Tech Stack 🛠</h3><p align="center"> -->
+<!--   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/ROS-007396?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/next.js-00501C?style=flat-square&logo=next.js&logoColor=red"/></a>&nbsp 
   <img src="https://img.shields.io/badge/webassembly-00779C?style=flat-square&logo=webassembly&logoColor=blue"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Pytorch-A8B9FF?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Pytorch-A8B9FF?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp -->
 <br>
 
 <br>
